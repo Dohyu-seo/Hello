@@ -13,7 +13,7 @@ public class Test05 {
 	 		charAt(위치값) ==> 문자열의 위치값에 들어있는 문자를 추출해주는 함수.
 	 			참고]
 	 				자바에서 사용하는 위치값은 index라고 부르며 0부터 시작한다.
-	 				
+	 				 
 	 		indexOf(문자 또는 문자열) ==> 해당 문자가 처음 출현하는 위치값을 반환해준다.
 	 */
 	public static void main(String[] args) {

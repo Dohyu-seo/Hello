@@ -6,7 +6,7 @@ public class Test07 {
 	 	정수를 입력받아 입력된 값이 짝수인지 홀수인지 판별하세요.
 	 */
 	public static void main(String[] args) {
-		//입력받을 준비하고
+		//입력받을 준비하고 
 		Scanner sc = new Scanner(System.in);
 		// 메세지 출력하고
 		System.out.print("정수를 입력하세요! : ");

@@ -1,7 +1,7 @@
 package day04;
 
 import java.util.*;
-public class Test06 {
+public class Test06_01 {
 	/*
 	 	제어문 - 프로그램의 흐름을 제어하는 문자
 	 		종류]
@@ -47,20 +47,24 @@ public class Test06 {
 		switch(code) {
 		case KOR: //case에 쓸 땐 항상 상수를 써야함.
 			sub = "국어 ";
-			break;
+//			break;
+			System.out.println("입력된 코드는 " +sub+ "과목 입니다.");
 		case ENG:
 			sub = "영어 ";
-			break;			
+//			break;
+			System.out.println("입력된 코드는 " +sub+ "과목 입니다.");
 		case MATH:
 			sub = "수학 ";
-			break;			
+//			break;
+			System.out.println("입력된 코드는 " +sub+ "과목 입니다.");
 		case SCI:
 			sub = "과학 ";
-			break;			
+//			break;
+			System.out.println("입력된 코드는 " +sub+ "과목 입니다.");
 		default:
 			sub = "없는 ";
-			
+			System.out.println("입력된 코드는 " +sub+ "과목 입니다.");
 		}
-		System.out.println("입력된 코드는 " +sub+ "과목 입니다.");
+//		System.out.println("입력된 코드는 " +sub+ "과목 입니다.");
 	}
 }
