@@ -10,7 +10,7 @@ public class Ex02 {
 			System.out.println((char)i);
 		}
 	}
-}
+} 
 /*
  	// 변수 선언하고 초기화하고
  	 char ch = 'O';

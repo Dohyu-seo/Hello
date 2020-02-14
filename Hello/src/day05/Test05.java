@@ -15,7 +15,7 @@ public class Test05 {
 		do {
 			System.out.println("한 번은 실행합니다.");
 		} while(bool);
-		
+		 
 		int i = 0;
 		do {
 			System.out.println(++i);

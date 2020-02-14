@@ -38,7 +38,7 @@ public class Ex01 {
 			// 6. 출력하고.
 		System.out.println("입력한 점수 ["+no+"]는 ["+str+"] 입니다.");
 	}
-}
+} 
 **/
 	// 강사님 풀이
 	public static void main(String[] args) {

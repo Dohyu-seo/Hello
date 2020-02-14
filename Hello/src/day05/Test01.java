@@ -26,7 +26,7 @@ public class Test01 {
 	 */
 	
 	// 예제] 과목 코드를 입력받아 과목이름을 알려주는 프로그램을 작성하세요.
-	
+	 
 	public static void main(String[] args) {
 		// 할일
 		// 1. 과목을 구분 할 변수를 만들어 놓고 

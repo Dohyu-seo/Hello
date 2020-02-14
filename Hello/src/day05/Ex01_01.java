@@ -11,7 +11,7 @@ public class Ex01_01 {
 	 		C : 70 ~ 79
 	 		D : 60 ~ 69
 	 		F : 0 ~ 59
-	 */
+	 */ 
 	// 강사님 풀이
 	public static void main(String[] args) {
 		// 입력받을 준비하고

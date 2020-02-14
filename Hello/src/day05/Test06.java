@@ -15,6 +15,6 @@ public class Test06 {
 		// 1~10까지 숫자를 랜덤하게 발생하세요.
 		int num = (int)(Math.random() * 10) + 1;
 		System.out.println("num : "+ num);
-	
+	 
 	}
 }

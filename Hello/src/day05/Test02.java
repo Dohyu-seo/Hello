@@ -9,7 +9,7 @@ public class Test02 {
 	public static void main(String[] args) {
 		// 두 자리 숫자(10~59)를 입력받아서 그 수가 십의 단위중 몇 보다 큰수인지 알아내세요
 		// 할일
-		// 1. 입력받을 준비하고
+		// 1. 입력받을 준비하고 
 		Scanner sc = new Scanner(System.in);
 		// 2. 메세지 출력하고
 		System.out.print("10 ~ 59 중 숫자를 입력하세요! : ");

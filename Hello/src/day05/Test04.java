@@ -14,7 +14,7 @@ public class Test04 {
  		1. 알파벳 'O' 부터 순차적으로 문자를 5개를 만들어서 출력하세요. 
  */
 	public static void main(String[] args) {
-		
+		 
 		// while 반복문은 명령문 내부에 카운터 변수가 없기 때문에 별도로 변수를 만들어주고
 		// 증감식도 별도로 처리해야 한다.
 		int i = 0; // 카운터 변수.

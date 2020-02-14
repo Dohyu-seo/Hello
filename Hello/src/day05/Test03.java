@@ -12,7 +12,7 @@ public class Test03 {
 		// 1부터 10까지 출력하세요.
 		for(int i = 0; i < 10; i++) {
 			System.out.println(i+1);
-		}
+		} 
 		
 		System.out.println("##################");
 		for(int i = 0; i <=150; i++) {

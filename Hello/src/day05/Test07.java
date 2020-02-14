@@ -16,7 +16,7 @@ public class Test07 {
 		int[] num = new int[5]; //int 타입의 정수를 한 번에 관리 할 수 있는 배열이 만들어진 것.
 		for(int i = 0; i < 5; i++) {
 			num[i] = i + 1;
-		}
+		} 
 		
 		for(int i = 0; i < num.length ; i++) {
 			System.out.println(num[i]);
