@@ -6,7 +6,7 @@ package day05;
 public class Test09 {
 	
 	public static void main(String[] args) {
-		// 배열 만들고 
+		// 배열 만들고
 		int[] num = new int[5]; 
 		
 		lotto: // label이 붙은 for 명령 // continue나 break에 적용시킬 반복문을 지정시켜줄 수 있습니다.
